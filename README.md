@@ -1,7 +1,6 @@
 # 🧹 Data Review Tool
 
-A powerful and user-friendly **Streamlit app** for customizing reports, reviewing Excel data, and highlighting changes — all in one streamlined workflow.  
-Perfect for collaborative review teams dealing with messy Excel files, batch updates, or audit trails.
+A powerful and user-friendly **Streamlit app** for customizing reports, reviewing Excel data, and highlighting changes — all in one streamlined workflow. Perfect for collaborative review teams dealing with messy Excel files, batch updates, or audit trails.
 
 ## 🚀 Features
 
