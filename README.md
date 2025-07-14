@@ -86,7 +86,42 @@ pip install -r requirements.txt
 
 ## 🌐 Usage with Streamlit Web App
 
-Run the app using Streamlit:
+Follow these steps to launch the App on your local machine:
+
+### 1. Open a Terminal (Command Prompt)
+
+- **Windows**:  
+Press `Win + R`, type `cmd`, and hit Enter to open the Command Prompt.
+
+- **macOS**:  
+Press `Cmd + Space`, type `Terminal`, and hit Enter.
+
+- **Linux**:  
+  Use `Ctrl + Alt + T`, or search for “Terminal” in your applications menu.
+
+### 2. Navigate to the Project Folder
+
+Use the `cd` command to move into the folder where you downloaded or cloned this project:
+
+```bash
+cd path/to/your/data-review
+```
+
+Replace  `path/to/your/...` with the actual folder path.
+
+### 3. Activate your Python Virtual Environment
+
+If you followed the setup steps and created a `venv` virtual environment in the project folder, activate it:
+
+```bash
+# For windows:
+venv\Scripts\activate
+
+# For macOS/Linux:
+source venv/bin/activate
+```
+
+### 4. Run the App with Streamlit:
 
 ```bash
 streamlit run app.py
